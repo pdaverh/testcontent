@@ -1,0 +1,15 @@
+apiVersion: v2
+publisher: ms-vscode
+name: dependency-demo
+version: 0.1.0
+type: VS Code extension
+displayName: dependency-demo
+title: Dependency Demo
+description: Dependency Demo
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+repository: https://github.com/pdaverh/testcontent
+category: Other
+firstPublicationDate: '2019-09-19'
+spec:
+  extensions:
+    - https://download.jboss.org/jbosstools/oxygen/stable/builds/vscode-analytics/fabric8-analytics-0.0.14-rc-1-54.vsix
