@@ -6,7 +6,7 @@ displayName: Dependency Analytics Test
 title: Dependency Analytics Test
 description: Early release of Dependency Analytics
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
-publisher: pdaverh
+publisher: demo
 repository: https://github.com/pdaverh/testcontent
 category: Other
 firstPublicationDate: "2020-07-10"
