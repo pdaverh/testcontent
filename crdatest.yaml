@@ -1,0 +1,15 @@
+apiVersion: v2
+version: latest
+type: VS Code extension
+name: dependency-analytics
+displayName: Dependency Analytics Test
+title: Dependency Analytics Test
+description: Early release of Dependency Analytics
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+publisher: pdaverh
+repository:https://github.com/pdaverh/testcontent
+category: Other
+firstPublicationDate: "2020-07-10"
+spec:
+  extensions:
+    - https://download.jboss.org/jbosstools/oxygen/stable/builds/vscode-analytics/fabric8-analytics-0.0.14-rc-1-54.vsix
