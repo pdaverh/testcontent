@@ -1,6 +1,6 @@
 apiVersion: v2
 publisher: ms-vscode
-name: vscode-teletype
+name: dependency-demo
 version: 0.1.0
 type: VS Code extension
 displayName: dependency-demo
